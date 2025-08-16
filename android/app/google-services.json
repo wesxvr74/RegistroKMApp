@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430323972415",
+    "project_id": "kmapp-212f4",
+    "storage_bucket": "kmapp-212f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430323972415:android:105dfb69fba5a4676cfb8a",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidnbAlvlkeXBHzPXkr6mCnCTtJI6RlPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
