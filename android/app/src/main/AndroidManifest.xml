@@ -6,7 +6,7 @@
         <!-- TODO: Substitua "SUA_CHAVE_DE_API_AQUI" pela sua chave de API do Google Cloud -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBfy9_jRSMmlp5PHvPNvv8WTwjPMsiVB4c"/>
+            android:value="SUA CHAVE AQUI"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
